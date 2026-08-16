@@ -7,7 +7,7 @@ engagement most efficiently, and where brand-safety risk (toxicity) is
 highest by region.
 
 **Tools:** MySQL 8.0, MySQL Workbench
-**Dataset:** [Social Media Engagement Dataset (Kaggle)](#) <[https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset/data)]>
+**Dataset:** [Social Media Engagement Dataset (Kaggle)](https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset/data)
 
 ## Key Questions Explored
 - Which platform delivers the highest average engagement rate?

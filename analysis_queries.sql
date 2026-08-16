@@ -45,7 +45,7 @@ FROM (
 WHERE rnk <= 3;
 
 
--- 9. Top locations by toxicity score (brand safety angle)
+-- 5. Top locations by toxicity score (brand safety angle)
 SELECT location,
        COUNT(*) AS post_count,
        ROUND(AVG(toxicity_score), 3) AS avg_toxicity,
